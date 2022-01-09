@@ -1,4 +1,0 @@
-Api Testing
-Soap UI
-Rest Assured API testing
-API automation
